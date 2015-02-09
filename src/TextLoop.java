@@ -1,5 +1,5 @@
 /**
- * Created by PierreM on 03/02/2015.
+ * Created by Pierre on 07/02/2015.
  */
 public class TextLoop implements Runnable {
     public static final int COUNT = 10;
